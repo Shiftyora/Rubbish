@@ -1,4 +1,5 @@
-![Rubbish (1)](https://user-images.githubusercontent.com/110542397/182639062-9979ce72-fadd-4769-8947-2e1186edae3c.png)
+![Rubbish (1)](https://user-images.githubusercontent.com/110542397/182681675-0f29e97b-e0a6-4d6f-aff7-285f4e5e7f82.png)
+
 
 # Rubbish 
 Rubbish is a bin collector to help prevent [memory/resource leaks](https://en.wikipedia.org/wiki/Memory_leak) by managing connections in designated bins.
