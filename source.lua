@@ -18,7 +18,7 @@ function Rubbish.bin()
 	end,	
 			})
 end
-
+if then
 function Rubbish:Empty()
 	assert(self, ("Rubbish:Empty() - Impossible empty request, attempted to empty nil, need binclass. [local MyBin = Rubbish.bin() MyBin:Empty()]"))
 	for def, state in pairs(self) do
